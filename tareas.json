@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Repasar JS",
+        "descripcion": "releer todos los temas para tener la base para la app de tareas",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Armar aplicación de Tareas",
+        "descripcion": "Seguir el paso a paso de los microdesafios",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Tomar una birra bien fria porque al final de todo esto ME LO MEREZCO",
+        "descripcion": "Sacar la birrita bien fria de la heladera para disfrutar el triunfo nderakore", 
+        "estado": "pendiente"
+    }
+]
